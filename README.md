@@ -164,7 +164,4 @@ The admin dashboard can be accessed at the `/admin` route. Use the `admin_tool.s
 
 Moderators have specific email domain (`@mod.nexus.com`). When registering with an email from this domain, the user is automatically assigned the moderator role. Moderators can be assigned to different communities from the admin dashboard.
 
-## License
-
-This project is licensed under the MIT License.
 
